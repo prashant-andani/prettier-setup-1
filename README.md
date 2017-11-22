@@ -139,3 +139,4 @@ Adjust your own rules in by updating the [`.eslintrc.yaml`](/.eslintrc.yaml).
 * [wireapp/**wire-web-api-client**](https://github.com/wireapp/wire-web-api-client/pull/17/files)
 * [wireapp/**wire-web-packages**](https://github.com/wireapp/wire-web-packages/pull/6/files)
 * [wireapp/**wire-webapp**](https://github.com/wireapp/wire-webapp/pull/1729/files)
+* [yangshun/**tech-interview-handbook**](https://github.com/yangshun/tech-interview-handbook/pull/89/files)
